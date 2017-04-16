@@ -1,0 +1,7 @@
+DEPENDENCIES
+  chef-cookbook-example-1
+    git: https://github.com/maxivak/chef-cookbook-example-1.git
+    revision: 8db4158a220faf5af658ad0e185c377f69da0e68
+
+GRAPH
+  chef-cookbook-example-1 (0.1.0)
