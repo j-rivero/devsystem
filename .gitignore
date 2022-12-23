@@ -1,2 +1,4 @@
-/cookbooks/
-/berks-cookbooks/
+chef/cookbooks/
+chef/berks-cookbooks/
+chef/.chef/chef_guid
+
