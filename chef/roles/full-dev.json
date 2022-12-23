@@ -1,6 +1,6 @@
 {
-  "name": "myrole",
-  "description": "my sample role",
+  "name": "Full development box",
+  "description": "All usual development artifacts installed",
   "json_class": "Chef::Role",
 
   "default_attributes": {
