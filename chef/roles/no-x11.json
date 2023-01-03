@@ -1,6 +1,6 @@
 {
-  "name": "full-dev",
-  "description": "All usual development artifacts installed",
+  "name": "no-x11",
+  "description": "All usual development artifacts installed for non x11 system",
   "json_class": "Chef::Role",
 
   "default_attributes": {
@@ -9,6 +9,5 @@
 
   "run_list": [
     "recipe[devtools::cli]",
-    "recipe[devtools::x11-needed]"
   ]
 }

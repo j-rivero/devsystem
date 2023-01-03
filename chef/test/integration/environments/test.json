@@ -1,0 +1,5 @@
+{
+  "name": "test",
+  "description": "Test Kitchen environment",
+  "__comment__": "Do not include any data here, use kitchen yaml config file instead"
+}

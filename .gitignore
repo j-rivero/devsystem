@@ -1,4 +1,5 @@
 chef/cookbooks/
 chef/berks-cookbooks/
 chef/.chef/chef_guid
+chef/.chef/kitchen
 
